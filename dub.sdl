@@ -1,0 +1,7 @@
+name "aovv"
+description "Art of Volumetric Voxels"
+authors "aod"
+copyright "Copyright © 2018, aod"
+license "proprietary"
+dependency "imageformats" version="~>6.1.2"
+dependency "gfm:math" version="~>7.0.0"
